@@ -13,3 +13,4 @@ Python - Семинары
 * [Курс по Python для ничинающих со Stepic (на русском)](https://stepik.org/course/Программирование-на-Python-67)
 * [Более сложный курс со Stepic (на русском)](https://stepik.org/course/Python-основы-и-применение-512)
 * [Python FAQ](https://docs.python.org/3/faq/)
+* [CheckIO](https://checkio.org/) - онлайн ресурс по решению задач на Python.
