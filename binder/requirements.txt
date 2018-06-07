@@ -1,0 +1,8 @@
+numpy
+matplotlib
+pandas
+sqlite3
+seaborn
+bokeh
+holoviews
+pandas_datareader
