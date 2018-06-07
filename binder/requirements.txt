@@ -4,4 +4,3 @@ pandas
 seaborn
 bokeh
 holoviews
-pandas_datareader
